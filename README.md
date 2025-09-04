@@ -47,7 +47,7 @@ There are two main files in this project:
 -----------------------------------------------------------------------------
 ## How To Run
 
-Follow these steps to set up and run the degrees.py:
+Follow these steps to set up and run the TicTacToe.py:
 
 - Navigate to the project directory: cd /workspaces/Tic-Tac-Toe/tictactoe
 - Run `pip3 install -r requirements.txt` to install the required Python package **pygame**
